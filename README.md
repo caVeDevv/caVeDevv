@@ -1,9 +1,9 @@
-- Hi, there 👋 I am Silas !
-- Create responsive and interactive interfaces 💡.
-- Enjoy working with CSS and aim to create visually appealing and unique designs.
-- Stack includes JavaScript, HTML, CSS, and I'm familiar with libraries like Bootstrap and TailwindCSS + using modern technologies such as React.js, and Next.js.
-- Ready to learn & I value the opportunity for continuous growth both as a professional and as an individual.
-- Feel free to get in touch with me! I'd be happy to discuss potential collaboration opportunities. Let's connect 🌐 .
+## Hi, there 👋 I am Silas !
+✨ Crafting responsive, interactive, and visually appealing designs using JavaScript, HTML, and CSS.
+🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js and Next.js.
+
+🚀 Passionate about learning and growth, both professionally and personally.
+🤝 Open to collaboration—let's connect! 🌐
 
 # Languages I speak :
 
