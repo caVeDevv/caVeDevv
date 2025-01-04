@@ -11,12 +11,10 @@
 
 🌐 If you're looking for an energetic and goal-oriented Frontend Developer, ready to take on challenges and contribute to your project, feel free to get in touch with me! I'd be happy to discuss potential collaboration opportunities.
 
-## My technologies
+## Languages I speak :
 
-### Languages I speak:
-
-![HTML5](icons/html5.png) ![CSS3](icons/CSS3.png) ![JavaScript](icons/javascript.png) ![React](icons/react.png) ![Tailwind](icons/tailwind.png) 
- ![Bootstrap](icons/bootstrap.png) 
+![HTML5](icons/html5.png) ![CSS3](icons/CSS3.png) ![JavaScript](icons/javascript.png) ![React](icons/react.png) ![Bootstrap](icons/bootstrap.png) ![Tailwind](icons/tailwind.png) 
+  
 
 HTML5  -  CSS3  -  JavaScript  -  React  -  Vue  -  Tailwind  -  Bootstrap
     
