@@ -7,7 +7,7 @@
 
 🤝 Open to collaboration—let's connect! 🌐
 
-# Languages I speak :
+## Languages that speak my mind :
 
 ![HTML5](icons/html5.png) ![CSS3](icons/CSS3.png) ![JavaScript](icons/javascript.png) ![React](icons/react.png) ![Bootstrap](icons/bootstrap.png) ![Tailwind](icons/tailwind.png) 
   
