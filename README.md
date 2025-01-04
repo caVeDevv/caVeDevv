@@ -5,7 +5,7 @@
 
 💡 My passion for crafting impeccable user experiences inspires me to create responsive and interactive interfaces, as well as animations, bringing pages to life with vibrancy and dynamism. I enjoy working with CSS and aim to create visually appealing and unique designs.
 
-💼 I specialize in frontend development using modern technologies such as React.js, and Next.js. My stack includes TypeScript, JavaScript, HTML, CSS, and TailwindCSS and I'm familiar with frameworks and libraries like Vue, Nuxt.js, and Bootstrap.
+💼 My stack includes JavaScript, HTML, CSS, and I'm familiar with libraries like  like Bootstrap and TailwindCSS. I specialize in frontend development using modern technologies such as React.js, and Next.js.
 
 📚 Ready to learn new tools and development methodologies, always open to sharing knowledge and experiences with colleagues. I value the opportunity for continuous growth both as a professional and as an individual.
 
@@ -15,7 +15,7 @@
 
 ### Languages I speak:
 
-![HTML5](icons/html5.png) ![CSS3](icons/CSS3.png) ![JavaScript](icons/javascript.png) ![React](icons/react.png) ![Vue](icons/vue.png) ![Tailwind](icons/tailwind.png) 
+![HTML5](icons/html5.png) ![CSS3](icons/CSS3.png) ![JavaScript](icons/javascript.png) ![React](icons/react.png) ![Tailwind](icons/tailwind.png) 
  ![Bootstrap](icons/bootstrap.png) 
 
 HTML5  -  CSS3  -  JavaScript  -  React  -  Vue  -  Tailwind  -  Bootstrap
