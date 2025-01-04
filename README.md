@@ -1,4 +1,4 @@
- Hi, there 👋 I am Silas!
+- Hi, there 👋 I am Silas!
 
 
 ## Profile
