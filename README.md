@@ -1,8 +1,10 @@
 ## Hi, there 👋 I am Silas !
-✨ Crafting responsive, interactive, and visually appealing designs using JavaScript, HTML, and CSS.
+✨ I craft responsive, interactive, and visually appealing designs using JavaScript, HTML, and CSS.
+
 🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js and Next.js.
 
 🚀 Passionate about learning and growth, both professionally and personally.
+
 🤝 Open to collaboration—let's connect! 🌐
 
 # Languages I speak :
