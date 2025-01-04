@@ -1,4 +1,4 @@
-## Hi, there 👋 I am Silas!
+ Hi, there 👋 I am Silas!
 
 
 ## Profile
@@ -9,7 +9,7 @@
 
 📚 Ready to learn new tools and development methodologies, always open to sharing knowledge and experiences with colleagues. I value the opportunity for continuous growth both as a professional and as an individual.
 
-🌐 If you're looking for an energetic and goal-oriented Frontend Developer, ready to take on challenges and contribute to your project, feel free to get in touch with me! I'd be happy to discuss potential collaboration opportunities.
+🌐 Feel free to get in touch with me! I'd be happy to discuss potential collaboration opportunities.
 
 ## Languages I speak :
 
