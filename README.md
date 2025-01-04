@@ -1,7 +1,7 @@
 ## Hi, there 👋 I am Silas!
 
 
-## About me
+## Profile
 
 💡 My passion for crafting impeccable user experiences inspires me to create responsive and interactive interfaces, as well as animations, bringing pages to life with vibrancy and dynamism. I enjoy working with CSS and aim to create visually appealing and unique designs.
 
@@ -21,8 +21,5 @@
 HTML5  -  CSS3  -  JavaScript  -  React  -  Vue  -  Tailwind  -  Bootstrap
     
 
-## Some stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoproizoshlo&layout=compact&theme=dark&bg_color=22272e&title_color=ffffff&text_color=ffffff&cache=off)](https://github.com/anuraghazra/github-readme-stats)
 
 
