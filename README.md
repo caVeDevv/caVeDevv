@@ -6,7 +6,7 @@
 🚀 Passionate about learning and growth, both professionally and personally.
 
 🤝 Open to collaboration—let's connect! 🌐
-   Feel free to reach out here [workitoutsilas@gmail.com]
+ -  Feel free to reach out here workitoutsilas@gmail.com
 
 ## Languages that speak my mind :
 
