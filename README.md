@@ -1,11 +1,11 @@
 ## Hi, there 👋 I am Silas !
 ✨ I craft responsive, interactive, and visually appealing designs using JavaScript, HTML, and CSS.
 
-🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js and Next.js.
+🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js & Next.js.
 
 🚀 Passionate about learning and growth, both professionally and personally.
 
-🤝 Open to collaboration—let's connect! 🌐
+🤝 Open to collaboration & learning—let's connect! 🌐
  -  Feel free to reach out here workitoutsilas@gmail.com
 
 ## Languages that speak my mind :
