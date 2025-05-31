@@ -1,6 +1,5 @@
 # 💫 About Me:
-## Hi, there 👋 I am Silas !<br>✨ I craft responsive, interactive, and visually appealing designs using JavaScript, HTML, and CSS.<br><br>🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js & Next.js.<br><br>🚀 Passionate about learning and growth, both professionally and personally.<br><br>🤝 Open to collaboration & learning—let's connect! 🌐<br> -  Feel free to reach out here workitoutsilas@gmail.com<br><br>## Languages that speak my mind :<br><br>![HTML5](icons/html5.png) ![CSS3](icons/CSS3.png) ![JavaScript](icons/javascript.png) ![React](icons/react.png) ![Bootstrap](icons/bootstrap.png) ![Tailwind](icons/tailwind.png) <br>  <br><br>HTML5  --  CSS3  --  JavaScript  --  React   --  Bootstrap  --  Tailwind<br>    <br><br><br><br>
-
+## Hi, there 👋 I am Silas !<br>✨ I craft responsive, interactive, and visually appealing designs using JavaScript, HTML, and CSS.<br><br>🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js & Next.js.<br><br>🚀 Passionate about learning and growth, both professionally and personally.<br><br>🤝 Open to collaboration & learning—let's connect! 🌐<br> -  Feel free to reach out here workitoutsilas@gmail.com<br><br>## 
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@cavedevv) 
