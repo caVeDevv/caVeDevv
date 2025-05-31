@@ -1,7 +1,7 @@
 # 💫 About Me:
- Hi, there 👋 I am Silas !<br>✨ I craft responsive, interactive, and visually appealing designs using JavaScript, HTML, and CSS.<br><br>🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js & Next.js.<br><br>🚀 Passionate about learning and growth, both professionally and personally.<br><br>🤝 Open to collaboration & learning—let's connect! 🌐<br>Feel free to reach out here workitoutsilas@gmail.com<br><br>## 
+ Hi, there 👋 I am Silas !<br>✨ I craft responsive, interactive, and visually appealing designs using JavaScript, HTML, and CSS.<br><br>🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js & Next.js.<br><br>🚀 Passionate about learning and growth, both professionally and personally.<br><br>🤝 Open to collaboration & learning—let's connect! 🌐 >> Feel free to reach out here workitoutsilas@gmail.com<br><br>
 
-🌐 Socials:
+# 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@cavedevv) 
 
 # 💻 Tech Stack:
