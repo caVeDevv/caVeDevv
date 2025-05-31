@@ -1,5 +1,5 @@
 # 💫 Meet Me:
-Hi, there 👋 I am Silas !<br>✨ I craft responsive, interactive, and visually appealing designs using JavaScript, HTML, & CSS.<br><br>🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js & Next.js.<br><br>🚀 Passionate about learning and growth, both professionally and personally.<br><br>🤝 Open to collaboration & learning —let's connect! 🌐 >> Feel free to reach out here workitoutsilas@gmail.com
+Hi, there 👋 I am caVeDevv !<br>✨ I craft responsive, interactive, and visually appealing designs using JavaScript, HTML, & CSS.<br><br>🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js & Next.js.<br><br>🚀 Passionate about learning and growth, both professionally and personally.<br><br>🤝 Open to collaboration & learning —let's connect! 🌐 >> Feel free to reach out here workitoutsilas@gmail.com
 
 
 # 💻 Tech Stack:
