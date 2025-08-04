@@ -1,16 +1,9 @@
-# 💫 About Me:
-# Hi, there 👋 I'm caVeDevv.<br>I craft responsive, interactive, and visually appealing designs using JavaScript, HTML, & CSS.<br><br>🎨 Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js & Next.js.<br><br>🚀 Passionate about learning and growth, both professionally and personally.<br><br>🤝 Open to collaboration & learning —let's connect! 🌐 >> Feel free to reach out here workitoutsilas@gmail.com
 
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/c [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_dar(k)ob) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=caVeDevv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=caVeDevv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caVeDevv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=caVeDevv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=caVeDevv&limit=5&theme=dark&combine_all_yearly_contributions=true)
