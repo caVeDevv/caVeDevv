@@ -1,5 +1,5 @@
 # Hi, I'm caVeDevv.
-I craft responsive, interactive, and visually appealing designs using JavaScript, HTML, & CSS.<br><br>Skilled in libraries like Bootstrap and TailwindCSS, plus modern frameworks like React.js & Next.js.<br><br>Passionate about learning and growth, both professionally and personally.<br><br>Open to collaboration & learning —let's connect! >> Feel free to reach out here workitoutsilas@gmail.com
+I craft responsive, interactive, and visually appealing web platforms using JavaScript, HTML, & CSS.<br><br>Skilled in libraries like TailwindCSS, plus modern frameworks like Next.js & React.js <br><br>Passionate about learning and growth, both professionally and personally.<br><br>Open to collaboration & learning so let's connect! >> Feel free to reach out here workitoutsilas@gmail.com
 
 
 # Stack:
